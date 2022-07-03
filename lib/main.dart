@@ -20,7 +20,7 @@ class _MyAppState extends State<MyApp> {
         debugShowCheckedModeBanner: false,
         home: Scaffold(
             appBar: AppBar(
-              title: Text('Profile'),
+              title: Text('Profile main'),
               leading: IconButton(
                 icon: Icon(Icons.arrow_back_ios_new_rounded),
                 onPressed: () {},
